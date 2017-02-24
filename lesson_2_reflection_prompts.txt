@@ -18,7 +18,8 @@ organized? How would branches help?
 	commit to the master branch.  In addition, multiple sets of disjoint changes can be stored in different branches
 
 How do the diagrams help you visualize the branch structure?
-
+	It helps you see where branches split and join with their parents.
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
