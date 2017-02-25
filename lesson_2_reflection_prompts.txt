@@ -26,4 +26,5 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	For large merges, automatic merging saves a lot of work.  Doing all merges manual will create a log of work with significant chances of error.
 
