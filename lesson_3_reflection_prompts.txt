@@ -28,4 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you're collaborating with others, doing your work in a branch and then submitting it for merging to main via a push request allows for code reviewing by the other collaborators.  This also allows for testing of your changes by others to provide quality assurance that the master branch won't be broken by a submission.
+    
